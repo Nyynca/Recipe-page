@@ -44,6 +44,7 @@ main{
 
 #image{
     padding: 5%;
+    padding-bottom: 1%;
 }
 img{
     width: 100%;
@@ -52,6 +53,7 @@ img{
 
 section{
     padding: 5%;
+    padding-top: 0;
 }
 
 h1{
