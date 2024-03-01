@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-oxBgbZI-2A)
-- Live Site URL: [Add live site URL here](https://nyynca.github.io/QR-code-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-challenge-IvJm4ZscWF)
+- Live Site URL: [Live site](https://nyynca.github.io/Recipe-page/)
 
 ## My process
 
